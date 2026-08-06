@@ -15,19 +15,18 @@ def sol():
         c = int(inp[idx + 1])
         idx += 2
  
-        v = [int(inp[idx + i]) for i in range(r)]
+        v = [int(x) for x in inp[idx : idx + r]]
         idx += r
- 
-        g = []
-        for i in range(r):
-            g.append([int(inp[idx + j]) for j in range(c)])
-            idx += c
  
         if c == 1:
             out.append("1")
+            idx += r
             continue
  
-        u = sorted(list(set(x for row in g for x in row)), reverse=True)
+        raw = [int(x) for x in inp[idx : idx + r * c]]
+        idx += r * c
+ 
+        u = sorted(list(set(raw)), reverse=True)
         m = len(u)
         p = {x: i + 1 for i, x in enumerate(u)}
  
@@ -39,7 +38,8 @@ def sol():
         b = 1 << (m.bit_length() - 1) if m > 0 else 0
  
         for i in range(r - 1, -1, -1):
-            for x in g[i]:
+            row_vals = raw[i * c : (i + 1) * c]
+            for x in row_vals:
                 tot += x
                 idx2 = p[x]
                 while idx2 <= m:
@@ -62,8 +62,7 @@ def sol():
  
                 rem = req - cur
                 val = u[j]
-                ext = (rem + val - 1) // val
-                req_cnt = cnt + ext
+                req_cnt = cnt + (rem + val - 1) // val
                 if req_cnt < ans:
                     ans = req_cnt
                     if ans == 1:
