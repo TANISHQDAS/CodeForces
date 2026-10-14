@@ -6,34 +6,36 @@
 
 | Total Problems | Topics |
 |---|---|
-| 133 | 23 |
+| 148 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (19)
+- [Uncategorized](#uncategorized) (20)
 - [binary search](#binary-search) (3)
-- [bitmasks](#bitmasks) (6)
-- [brute force](#brute-force) (19)
+- [bitmasks](#bitmasks) (7)
+- [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (11)
-- [data structures](#data-structures) (7)
+- [constructive algorithms](#constructive-algorithms) (14)
+- [data structures](#data-structures) (10)
 - [dfs and similar](#dfs-and-similar) (4)
-- [dp](#dp) (9)
+- [dp](#dp) (10)
 - [dsu](#dsu) (1)
 - [fft](#fft) (1)
-- [games](#games) (3)
+- [games](#games) (5)
+- [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (37)
+- [graphs](#graphs) (1)
+- [greedy](#greedy) (42)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (54)
-- [math](#math) (34)
-- [number theory](#number-theory) (8)
+- [implementation](#implementation) (57)
+- [math](#math) (39)
+- [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (16)
-- [strings](#strings) (24)
+- [sortings](#sortings) (18)
+- [strings](#strings) (27)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -52,6 +54,7 @@
 | 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.py) |
 | 2256D | [A Ribbon for Tomorrow](https://codeforces.com/contest/2256/problem/D) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2256/D%20-%20A%20Ribbon%20for%20Tomorrow/solution.py) |
 | 2263C1 | [Floor of MEX (Easy Version)](https://codeforces.com/contest/2263/problem/C1) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2263/C1%20-%20Floor%20of%20MEX%20(Easy%20Version)/solution.py) |
+| 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.py) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.py) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/C%20-%20Subarrays/solution.py) |
 | 106465A | [Balls](https://codeforces.com/contest/106465/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106465/A%20-%20Balls/solution.py) |
@@ -86,6 +89,7 @@
 | 2245C | [MEXOR](https://codeforces.com/contest/2245/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/C%20-%20MEXOR/solution.py) |
 | 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.py) |
 | 2252E | [Generational Triplets](https://codeforces.com/contest/2252/problem/E) | 2100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/E%20-%20Generational%20Triplets/solution.py) |
+| 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.py) |
 
 ### brute force
 
@@ -93,6 +97,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 109A | [Lucky Sum of Digits](https://codeforces.com/contest/109/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/109/A%20-%20Lucky%20Sum%20of%20Digits/solution.py) |
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.py) |
@@ -110,6 +115,8 @@
 | 2249A | [Rank Subsequence](https://codeforces.com/contest/2249/problem/A) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2249/A%20-%20Rank%20Subsequence/solution.py) |
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.py) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.py) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.py) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.py) |
 
 ### combinatorics
 
@@ -134,6 +141,9 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.py) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.py) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.py) |
+| 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
+| 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.py) |
 
 ### data structures
 
@@ -146,6 +156,9 @@
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.py) |
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.py) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/E%20-%20Chronostasis/solution.py) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.py) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.py) |
 
 ### dfs and similar
 
@@ -169,6 +182,7 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.py) |
 | 2252E | [Generational Triplets](https://codeforces.com/contest/2252/problem/E) | 2100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/E%20-%20Generational%20Triplets/solution.py) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.py) |
 
 ### dsu
 
@@ -189,6 +203,14 @@
 | 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.py) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.py) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
+| 2271B | [MEX Game](https://codeforces.com/contest/2271/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/B%20-%20MEX%20Game/solution.py) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.py) |
 
 ### graph matchings
 
@@ -197,11 +219,19 @@
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.py) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.py) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.py) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/160/A%20-%20Twins/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.py) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.py) |
@@ -238,6 +268,9 @@
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.py) |
 | 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/E%20-%20Chronostasis/solution.py) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.py) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.py) |
+| 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.py) |
 
 ### hashing
 
@@ -261,6 +294,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.py) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
@@ -304,6 +338,8 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.py) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.py) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.py) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.py) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.py) |
 
 ### math
 
@@ -343,11 +379,17 @@
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.py) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.py) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.py) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.py) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.py) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.py) |
+| 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.py) |
+| 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.py) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
 | 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1364/A%20-%20XXXXX/solution.py) |
 | 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.py) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.py) |
@@ -356,6 +398,7 @@
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 | 2257D | [Bermuda Rectangle](https://codeforces.com/contest/2257/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2257/D%20-%20Bermuda%20Rectangle/solution.py) |
+| 2266E | [Prime Destruction](https://codeforces.com/contest/2266/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/E%20-%20Prime%20Destruction/solution.py) |
 
 ### shortest paths
 
@@ -367,6 +410,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/160/A%20-%20Twins/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
@@ -383,16 +427,19 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/A%20-%20Riptide/solution.py) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.py) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.py) |
+| 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.py) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.py) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/96/A%20-%20Football/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/208/A%20-%20Dubstep/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
@@ -412,6 +459,7 @@
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2252/B%20-%20Always%20Changing/solution.py) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2254/B%20-%20Evanescent/solution.py) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.py) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.py) |
 
 ### two pointers
 
