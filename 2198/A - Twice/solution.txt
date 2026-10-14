@@ -1,0 +1,24 @@
+import java.util.*
+ 
+fun main() {
+    val sc = Scanner(System.`in`)
+    val t = sc.nextInt()
+ 
+    repeat(t) {
+        val n = sc.nextInt()
+        val freq = HashMap<Int, Int>()
+ 
+        for (i in 0 until n) {
+            val x = sc.nextInt()
+            freq[x] = freq.getOrDefault(x, 0) + 1
+        }
+ 
+        var score = 0
+ 
+        for (value in freq.values) {
+            score += value / 2
+        }
+ 
+        println(score)
+    }
+}
