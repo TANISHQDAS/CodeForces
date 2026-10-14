@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 62 | 21 |
+| 63 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (2)
@@ -42,6 +42,7 @@
 |---|---------|------------|----------|
 | 2198A | [Twice](https://codeforces.com/contest/2198/problem/A) | Unrated | [Kotlin 1.7](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2198/A%20-%20Twice/solution.txt) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.py) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/C%20-%20Subarrays/solution.py) |
 
 ### bitmasks
 
