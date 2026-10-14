@@ -1,0 +1,10 @@
+t=int(input())
+for _ in range(t):
+    n=int(input())
+    a=input()
+    b=input()
+    ca=a.count('1')
+    cb=b.count('1')
+    ea=sum(1 for i in range(n) if i%2==0 and a[i]=='1')
+    eb=sum(1 for i in range(n) if i%2==0 and b[i]=='1')
+    print("YES" if ca==cb and ea==eb else "NO")
