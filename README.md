@@ -6,32 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 21 |
+| 72 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
-- [bitmasks](#bitmasks) (3)
+- [Uncategorized](#uncategorized) (2)
+- [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (6)
-- [data structures](#data-structures) (3)
-- [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (4)
+- [constructive algorithms](#constructive-algorithms) (10)
+- [data structures](#data-structures) (4)
+- [dfs and similar](#dfs-and-similar) (4)
+- [dp](#dp) (7)
 - [dsu](#dsu) (1)
 - [fft](#fft) (1)
 - [games](#games) (2)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (18)
+- [greedy](#greedy) (24)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (31)
-- [math](#math) (18)
-- [number theory](#number-theory) (4)
+- [implementation](#implementation) (33)
+- [math](#math) (22)
+- [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (9)
-- [strings](#strings) (16)
+- [sortings](#sortings) (10)
+- [strings](#strings) (17)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -42,7 +42,6 @@
 |---|---------|------------|----------|
 | 2198A | [Twice](https://codeforces.com/contest/2198/problem/A) | Unrated | [Kotlin 1.7](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2198/A%20-%20Twice/solution.txt) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.py) |
-| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/C%20-%20Subarrays/solution.py) |
 
 ### bitmasks
 
@@ -51,6 +50,8 @@
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.py) |
 | 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.py) |
 | 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.py) |
+| 2245C | [MEXOR](https://codeforces.com/contest/2245/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/C%20-%20MEXOR/solution.py) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.py) |
 
 ### brute force
 
@@ -86,6 +87,10 @@
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.py) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.py) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.py) |
+| 2245C | [MEXOR](https://codeforces.com/contest/2245/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/C%20-%20MEXOR/solution.py) |
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.py) |
 
 ### data structures
 
@@ -94,6 +99,7 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
 | 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.py) |
 | 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1364/A%20-%20XXXXX/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
 
 ### dfs and similar
 
@@ -102,6 +108,7 @@
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 | 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.py) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.py) |
+| 2245D1 | [Construct an Array (Easy Version)](https://codeforces.com/contest/2245/problem/D1) | 1700 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/D1%20-%20Construct%20an%20Array%20(Easy%20Version)/solution.py) |
 
 ### dp
 
@@ -111,6 +118,9 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
 | 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.py) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 
 ### dsu
 
@@ -160,6 +170,12 @@
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.py) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.py) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
+| 2245A | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/A%20-%20Who%20Watches%20the%20Watchpig%3F/solution.py) |
+| 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.py) |
+| 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.py) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | 1500 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.py) |
 
 ### hashing
 
@@ -202,6 +218,8 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
 | 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.py) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
+| 2245D1 | [Construct an Array (Easy Version)](https://codeforces.com/contest/2245/problem/D1) | 1700 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/D1%20-%20Construct%20an%20Array%20(Easy%20Version)/solution.py) |
 
 ### math
 
@@ -225,6 +243,10 @@
 | 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.py) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.py) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.py) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
+| 2245C | [MEXOR](https://codeforces.com/contest/2245/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/C%20-%20MEXOR/solution.py) |
+| 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.py) |
 
 ### number theory
 
@@ -234,6 +256,9 @@
 | 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.py) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.py) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.py) |
+| 2244D | [Yaroslav and Productivity](https://codeforces.com/contest/2244/problem/D) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/D%20-%20Yaroslav%20and%20Productivity/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
+| 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.py) |
 
 ### shortest paths
 
@@ -254,6 +279,7 @@
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.py) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.py) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.py) |
+| 2245D1 | [Construct an Array (Easy Version)](https://codeforces.com/contest/2245/problem/D1) | 1700 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/D1%20-%20Construct%20an%20Array%20(Easy%20Version)/solution.py) |
 
 ### strings
 
@@ -275,6 +301,7 @@
 | 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.py) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.py) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.py) |
+| 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
 
 ### two pointers
 
