@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 21 |
+| 88 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (16)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (12)
+- [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (10)
 - [data structures](#data-structures) (4)
@@ -27,11 +27,11 @@
 - [greedy](#greedy) (24)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (33)
-- [math](#math) (22)
+- [math](#math) (23)
 - [number theory](#number-theory) (7)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (10)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -42,6 +42,20 @@
 |---|---------|------------|----------|
 | 2198A | [Twice](https://codeforces.com/contest/2198/problem/A) | Unrated | [Kotlin 1.7](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2198/A%20-%20Twice/solution.txt) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.py) |
+| 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2276/C%20-%20Subarrays/solution.py) |
+| 106465A | [Balls](https://codeforces.com/contest/106465/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106465/A%20-%20Balls/solution.py) |
+| 106628A | [Remaining Towers](https://codeforces.com/contest/106628/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/A%20-%20Remaining%20Towers/solution.py) |
+| 106628B | [Safe Rotations](https://codeforces.com/contest/106628/problem/B) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/B%20-%20Safe%20Rotations/solution.py) |
+| 106628D | [Max MST](https://codeforces.com/contest/106628/problem/D) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/D%20-%20Max%20MST/solution.py) |
+| 106628E | [Total Gold](https://codeforces.com/contest/106628/problem/E) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/E%20-%20Total%20Gold/solution.py) |
+| 106628G | [Pirate Team](https://codeforces.com/contest/106628/problem/G) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/G%20-%20Pirate%20Team/solution.py) |
+| 106628I | [Valid Pairs](https://codeforces.com/contest/106628/problem/I) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/I%20-%20Valid%20Pairs/solution.py) |
+| 106628J | [String Split](https://codeforces.com/contest/106628/problem/J) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/J%20-%20String%20Split/solution.py) |
+| 106628K | [Point Diameter](https://codeforces.com/contest/106628/problem/K) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/K%20-%20Point%20Diameter/solution.py) |
+| 106628M | [Database Pool](https://codeforces.com/contest/106628/problem/M) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/M%20-%20Database%20Pool/solution.py) |
+| 106628N | [Tree Signals](https://codeforces.com/contest/106628/problem/N) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/N%20-%20Tree%20Signals/solution.py) |
+| 106628O | [Hidden Permutation](https://codeforces.com/contest/106628/problem/O) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106628/O%20-%20Hidden%20Permutation/solution.py) |
+| 106632A | [Shaban on Mars](https://codeforces.com/contest/106632/problem/A) | Unrated | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/106632/A%20-%20Shaban%20on%20Mars/solution.py) |
 
 ### bitmasks
 
@@ -57,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 109A | [Lucky Sum of Digits](https://codeforces.com/contest/109/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/109/A%20-%20Lucky%20Sum%20of%20Digits/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.py) |
@@ -225,6 +240,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.py) |
@@ -286,6 +302,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/96/A%20-%20Football/solution.py) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.py) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/208/A%20-%20Dubstep/solution.py) |
