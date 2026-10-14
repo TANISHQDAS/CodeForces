@@ -6,27 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 15 |
+| 47 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
-- [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [dfs and similar](#dfs-and-similar) (1)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (10)
+- [combinatorics](#combinatorics) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [data structures](#data-structures) (3)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (2)
+- [games](#games) (1)
 - [graph matchings](#graph-matchings) (2)
-- [greedy](#greedy) (6)
-- [implementation](#implementation) (26)
-- [math](#math) (6)
+- [greedy](#greedy) (11)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (31)
+- [math](#math) (12)
+- [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (4)
-- [strings](#strings) (9)
-- [two pointers](#two-pointers) (1)
+- [sortings](#sortings) (6)
+- [strings](#strings) (12)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -41,6 +45,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.py) |
+| 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.py) |
 
 ### brute force
 
@@ -48,15 +53,20 @@
 |---|---------|------------|----------|
 | 109A | [Lucky Sum of Digits](https://codeforces.com/contest/109/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/109/A%20-%20Lucky%20Sum%20of%20Digits/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.py) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.py) |
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.py) |
 | 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.py) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.py) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1364/A%20-%20XXXXX/solution.py) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.py) |
 
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.py) |
 
 ### constructive algorithms
@@ -64,12 +74,23 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+| 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.py) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
+| 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.py) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1364/A%20-%20XXXXX/solution.py) |
 
 ### dfs and similar
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.py) |
 
 ### dp
 
@@ -77,6 +98,12 @@
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.py) |
 
 ### graph matchings
 
@@ -89,17 +116,29 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.py) |
+| 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 369A | [Valera and Plates](https://codeforces.com/contest/369/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/369/A%20-%20Valera%20and%20Plates/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.py) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.py) |
+| 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.py) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/4/C%20-%20Registration%20System/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/96/A%20-%20Football/solution.py) |
@@ -117,8 +156,11 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.py) |
+| 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 369A | [Valera and Plates](https://codeforces.com/contest/369/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/369/A%20-%20Valera%20and%20Plates/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
+| 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.py) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.py) |
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.py) |
@@ -126,6 +168,7 @@
 | 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.py) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.py) |
 | 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.py) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
 
 ### math
 
@@ -134,9 +177,22 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.py) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.py) |
+| 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.py) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
+| 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.py) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1358A | [Park Lighting](https://codeforces.com/contest/1358/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1358/A%20-%20Park%20Lighting/solution.py) |
+| 1385A | [Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1385/A%20-%20Three%20Pairwise%20Maximums/solution.py) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.py) |
+| 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.py) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1364/A%20-%20XXXXX/solution.py) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.py) |
 
 ### shortest paths
 
@@ -150,8 +206,10 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
 | 551A | [GukiZ and Contest](https://codeforces.com/contest/551/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/551/A%20-%20GukiZ%20and%20Contest/solution.py) |
+| 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.py) |
 
 ### strings
 
@@ -166,12 +224,16 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.py) |
 | 731A | [Night at the Museum](https://codeforces.com/contest/731/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/731/A%20-%20Night%20at%20the%20Museum/solution.py) |
+| 2176B | [Optimal Shifts](https://codeforces.com/contest/2176/problem/B) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2176/B%20-%20Optimal%20Shifts/solution.py) |
+| 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.py) |
+| 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
 
 ### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.py) |
+| 1364A | [XXXXX](https://codeforces.com/contest/1364/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1364/A%20-%20XXXXX/solution.py) |
 
 ---
 
