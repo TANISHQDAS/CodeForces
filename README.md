@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 155 | 25 |
+| 156 | 25 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (43)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (60)
+- [implementation](#implementation) (61)
 - [math](#math) (41)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
@@ -340,6 +340,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
 | 2244E | [Masha and the Garland](https://codeforces.com/contest/2244/problem/E) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2244/E%20-%20Masha%20and%20the%20Garland/solution.py) |
 | 2245D1 | [Construct an Array (Easy Version)](https://codeforces.com/contest/2245/problem/D1) | 1700 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2245/D1%20-%20Construct%20an%20Array%20(Easy%20Version)/solution.py) |
