@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 153 | 25 |
+| 154 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (22)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (7)
-- [brute force](#brute-force) (22)
+- [brute force](#brute-force) (23)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (15)
 - [data structures](#data-structures) (10)
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (43)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (59)
-- [math](#math) (39)
+- [math](#math) (40)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (18)
@@ -104,6 +104,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.py) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.py) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 535B | [Tavas and SaDDas](https://codeforces.com/contest/535/problem/B) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/535/B%20-%20Tavas%20and%20SaDDas/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 546C | [Soldier and Cards](https://codeforces.com/contest/546/problem/C) | 1400 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/C%20-%20Soldier%20and%20Cards/solution.py) |
@@ -361,6 +362,7 @@
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.py) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/318/A%20-%20Even%20Odds/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/353/A%20-%20Domino/solution.py) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 554A | [Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/554/A%20-%20Kyoya%20and%20Photobooks/solution.py) |
