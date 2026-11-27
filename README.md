@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 152 | 25 |
+| 153 | 25 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (22)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (14)
+- [constructive algorithms](#constructive-algorithms) (15)
 - [data structures](#data-structures) (10)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (11)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (43)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (58)
+- [implementation](#implementation) (59)
 - [math](#math) (39)
 - [number theory](#number-theory) (10)
 - [shortest paths](#shortest-paths) (1)
@@ -133,6 +133,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.py) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.py) |
 | 1353D | [Constructing the Array](https://codeforces.com/contest/1353/problem/D) | 1600 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/1353/D%20-%20Constructing%20the%20Array/solution.py) |
 | 2182A | [New Year String](https://codeforces.com/contest/2182/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2182/A%20-%20New%20Year%20String/solution.py) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
@@ -317,6 +318,7 @@
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 369A | [Valera and Plates](https://codeforces.com/contest/369/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/369/A%20-%20Valera%20and%20Plates/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.py) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.py) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Python 3](https://github.com/TANISHQDAS/CodeForces/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.py) |
